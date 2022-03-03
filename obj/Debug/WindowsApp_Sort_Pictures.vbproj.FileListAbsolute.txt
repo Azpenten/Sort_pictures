@@ -1,0 +1,12 @@
+C:\Users\Player\source\repos\WindowsApp_Sort_Pictures\bin\Debug\WindowsApp_Sort_Pictures.exe.config
+C:\Users\Player\source\repos\WindowsApp_Sort_Pictures\bin\Debug\WindowsApp_Sort_Pictures.exe
+C:\Users\Player\source\repos\WindowsApp_Sort_Pictures\bin\Debug\WindowsApp_Sort_Pictures.pdb
+C:\Users\Player\source\repos\WindowsApp_Sort_Pictures\bin\Debug\WindowsApp_Sort_Pictures.xml
+C:\Users\Player\source\repos\WindowsApp_Sort_Pictures\obj\Debug\WindowsApp_Sort_Pictures.vbprojAssemblyReference.cache
+C:\Users\Player\source\repos\WindowsApp_Sort_Pictures\obj\Debug\WindowsApp_Sort_Pictures.Resources.resources
+C:\Users\Player\source\repos\WindowsApp_Sort_Pictures\obj\Debug\WindowsApp_Sort_Pictures.vbproj.GenerateResource.cache
+C:\Users\Player\source\repos\WindowsApp_Sort_Pictures\obj\Debug\WindowsApp_Sort_Pictures.exe
+C:\Users\Player\source\repos\WindowsApp_Sort_Pictures\obj\Debug\WindowsApp_Sort_Pictures.xml
+C:\Users\Player\source\repos\WindowsApp_Sort_Pictures\obj\Debug\WindowsApp_Sort_Pictures.pdb
+C:\Users\Player\source\repos\WindowsApp_Sort_Pictures\obj\Debug\WindowsApp_Sort_Pictures.Form1.resources
+C:\Users\Player\source\repos\WindowsApp_Sort_Pictures\obj\Debug\WindowsApp_Sort_Pictures.vbproj.CoreCompileInputs.cache
